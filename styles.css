@@ -1,0 +1,218 @@
+.colour{
+    color:orange;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+#AboutURIContainer{
+    background-color: white;
+    border: 3px solid grey;
+    margin: 80px;
+}
+#top{
+     color: darkorange;
+     font-family: "Times New Roman", Times, sans-serif;
+     font-size: 70px;
+     font-weight: bold;
+    
+}
+#deptName h1{
+     color: white;
+     text-align: center;
+   
+}
+#deptName h5{
+     color: white;
+     text-align: center;
+   
+}
+.center { 
+    text-align: center; 
+}
+#AboutURIContainer h2{
+     color: black;
+     font-family: "Times New Roman", Times, sans-serif;
+     font-size: 20px;
+     font-weight: bolder;
+     text-align: center;
+    
+}
+#AboutURIContainer h5{
+     color: black;
+     font-family: "Times New Roman", Times, sans-serif;
+     font-size: 15px;
+     font-weight: bold;
+    font-style: italic;
+
+     
+}
+#Undergraduate{
+    background-color: white;
+    border: 3px solid grey;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#Undergraduate h2{
+  text-align: center;
+  font-weight: bolder;  
+  text-decoration: underline;
+}
+
+#wmcHead, #hccHead, #citHead{
+    display: inline-block;
+}
+#divInDialog{
+    text-align: center;
+    background-color: lightblue;
+    
+}
+#Graduate{
+    width: 1300px;
+    padding: 20px;
+    border-top: 10px solid #FFFF00;
+    border-bottom:10px solid #FF0000;
+    background-image: 
+        linear-gradient(#FFFF00, #FF0000),
+        linear-gradient(#FFFF00, #FF0000)
+    ;
+    background-size:10px 100%;
+    background-position:0 0, 100% 0;
+    background-repeat:no-repeat;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#Graduate h2{
+  color: ghostwhite;
+  text-align: center;
+  font-weight: bolder;  
+  text-decoration: underline;
+}
+#Graduate div{
+  color: white
+}
+#istHead, #hciHead, #nsaHead{
+    display: inline-block;
+}
+#introduction {
+  color: ghostwhite;
+  text-align: center;
+  font-weight: bolder;
+} 
+
+#value1{
+    background-color: lightcoral;
+    width: 180px;
+    padding: 35px;
+    margin: 35px;
+}
+#value2{
+    background-color: lightgreen;
+    width: 150px;
+    padding: 35px;
+    margin: 35px;
+}
+#value3{
+    background-color: lightcyan;
+    width: 180px;
+    padding: 35px;
+    margin: 35px;
+}
+#value4{
+    background-color: lightgoldenrodyellow;
+    width: 180px;
+    padding: 35px;
+    margin: 35px;
+}
+#value1, #value2, #value3, #value4{
+     display: inline-block;
+}
+#coop {
+  color: ghostwhite;
+  text-align: center;
+  font-weight: bolder;
+
+} 
+#employers {
+  color: ghostwhite;
+  text-align: center;
+  font-weight: bolder;
+ 
+} 
+#careers {
+  color: ghostwhite;
+  text-align: center;
+  font-weight: bolder; 
+  
+} 
+#ourStudent{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder; 
+  color: yellow;
+  font-family: "Times New Roman", Times, sans-serif;
+  text-decoration: underline;
+}
+#mapsub{
+ font-size: 25px;
+  text-align:left;
+  font-weight: bolder; 
+  color: greenyellow;
+  font-family: "Times New Roman", Times, sans-serif;
+}
+#coopView{
+    font-size: 40px;
+   text-align: center;
+   font-weight: bolder; 
+    color: lightsalmon;
+    font-family: "Times New Roman", Times, sans-serif;
+    text-decoration: underline;
+}
+#proEmpView{
+    font-size: 40px;
+   text-align: center;
+   font-weight: bolder; 
+    color: lightskyblue;
+    font-family: "Times New Roman", Times, sans-serif;
+    text-decoration: underline;
+}
+div.photoContainer{
+      display: inline-block;
+}
+#faculty{
+    font-size: 40px;
+   text-align: center;
+   font-weight: bolder; 
+    color: lightgreen;
+    font-family: "Times New Roman", Times, sans-serif;
+    text-decoration: underline;
+}
+#footer{
+    background-color: white;
+    border: 3px solid grey;
+    margin: 80px;
+   
+}
+#footer h3{
+     color: black;
+     font-family: "Times New Roman", Times, sans-serif;
+     font-size: 20px;
+     font-weight: bolder;
+     text-align: center;
+
+}
+#footer h4{
+     color: black;
+     font-family: "Times New Roman", Times, sans-serif;
+     font-size: 20px;
+     font-weight: bolder;
+     text-align: center;
+  
+}
+#lastfooter h4{
+   
+    text-align: center;
+}
+

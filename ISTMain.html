@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>
+       Information Sciences and Technologies
+    </title>
+<style>
+body{
+    background: url("/Users/AbhiKemp/Desktop/jQuery_Project2/cover.jpg") no-repeat top center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}  
+</style>
+<link href="https://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css" type="text/css" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script> 
+<script src="https://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script><!-- jQuery UI-Dialog Plugin -->
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script><!-- Tables Plugin -->
+
+
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" />
+    
+<link rel="stylesheet" href="styles.css">
+<script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+<script src="Services.js" type="text/javascript"></script>
+<script src="IST.js" type="text/javascript"></script>
+<script type="text/javascript" src="formValidation.js"></script>
+
+</head>
+<body>
+<div id="top">
+R.I.T
+</div>
+<hr>
+
+<div id="deptName">
+    <h1><span class="colour">INFORMATION SCIENCES</span> &</h1>
+    <h1>TECHNOLOGIES @ RIT</h1>
+    <h5>Scroll down to navigate</h5>
+</div>
+<div id="AboutURIContainer">
+    </div>
+<div id="divDialog">
+<div id="divInDialog"></div>
+</div>
+<div id="Undergraduate">
+    <h2>Our Undergraduate Degrees</h2>
+    <div id="wmcHead"></div>
+    <button id="wmcButton">+</button>
+    <div id="hccHead"></div>
+    <button id="hccButton">+</button>
+    <div id="citHead"></div>
+    <button id="citButton">+</button>
+</div>
+<br/><br/><br/><br/>
+<div id="Graduate">
+    <h2>Our Graduate Degrees</h2>
+    <div id="istHead"></div>
+    <button id="istButton">+</button>
+    <div id="hciHead"></div>
+    <button id="hciButton">+</button>
+    <div id="nsaHead"></div>
+    <button id="nsaButton">+</button>
+</div>
+<br/><br/><br/><br/>
+<div id="Employment">
+ <div id="introduction"></div>
+ <div id="degreeStatistics">
+    <div id="value1"></div>
+    <div id="value2"></div>
+    <div id="value3"></div>
+    <div id="value4"></div>
+    </div> 
+<hr>
+ <div id="coop"></div>
+<hr>
+ <div id="employers"></div>
+<hr>
+ <div id="careers"></div> 
+</div>
+<br/>
+<div id="ourStudent">Where Our Students Work</div>
+<br/>
+<div id="mapsub">Our Students work all around the Country!</div>
+<iframe width="660" height="400" src="https://www.ist.rit.edu/api/map/"></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/GZkzFG1Dswk" frameborder="0" allowfullscreen></iframe>
+<br/><br/>
+<div id="coopView">Co-op Table</div>
+<table id="coopTable" class="display" cellspacing="0" width="100%">
+           <thead>
+            <tr>
+                <th bgcolor="orange">employer</th>
+                <th bgcolor="grey">degree</th>
+                <th bgcolor="orange">city</th>
+                <th bgcolor="grey">term</th>
+            </tr>
+           </thead>
+            <tfoot>
+            <tr>
+                 <th bgcolor="orange">employer</th>
+                <th bgcolor="grey">degree</th>
+                <th bgcolor="orange">city</th>
+                <th bgcolor="grey">term</th>
+            </tr>
+        </tfoot>
+</table>
+<br/><br/>
+<div id="proEmpView">Professional Employment Table</div>
+<table id="proEmpTable" class="display" cellspacing="0" width="100%">
+           <thead>
+            <tr>
+                <th bgcolor="orange">employer</th>
+                <th bgcolor="grey">degree</th>
+                <th bgcolor="orange">city</th>
+                <th bgcolor="grey">title</th>
+                <th bgcolor="orange">StartDate</th>
+            </tr>
+           </thead>
+            <tfoot>
+            <tr>
+                <th bgcolor="orange">employer</th>
+                <th bgcolor="grey">degree</th>
+                <th bgcolor="orange">city</th>
+                <th bgcolor="grey">title</th>
+                <th bgcolor="orange">StartDate</th>
+            </tr>
+        </tfoot>
+</table>  
+<hr>
+<br/><br/>
+<div id="faculty">Faculty Research: Lookup By Faculty</div>
+  <div class="photoContainer">
+    <img id="daniel" src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/1.Daniel.jpg" width="150px" height="125px"/>
+  </div>
+ <div class="photoContainer">
+    <img id="scott" src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/2.Scott.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="boggard"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/3.Boggard.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="charlie" src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/4.Charlie.jpg" width="150px" height="125px"/>
+  </div>
+    <div class="photoContainer">
+    <img id="michael" src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/5.Michael.jpg" width="150px" height="125px"/>
+  </div>
+ <div class="photoContainer">
+    <img id="golen"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/6.Golen.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="viki"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/7.Viki.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="bruce"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/8.Bruce.jpg" width="150px" height="125px"/>
+  </div>
+    <div class="photoContainer">
+    <img id="larry"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/9.Larry.jpg" width="150px" height="125px"/>
+  </div>
+ <div class="photoContainer">
+    <img id="holden" src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/10.Holden.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="matt"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/11.Matt.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="kang"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/12.Kang.jpg" width="150px" height="125px"/>
+  </div>
+    <div class="photoContainer">
+    <img id="deborah"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/13.Deborah.jpg" width="150px" height="125px"/>
+  </div>
+ <div class="photoContainer">
+    <img id="jim"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/14.Jim.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="sharon" src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/15.Sharon.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="tae"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/16.Tae.jpg" width="150px" height="125px"/>
+  </div>
+   <div class="photoContainer">
+    <img id="nirmala"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/17.Nirmala.jpg" width="150px" height="125px"/>
+  </div>
+ <div class="photoContainer">
+    <img id="brian"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/18.Brian.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="ronald"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/19.Ronald.jpg" width="150px" height="125px"/>
+  </div>
+  <div class="photoContainer">
+    <img id="elissa"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/20.Elissa.jpg" width="150px" height="125px"/>
+  </div>
+    <div class="photoContainer">
+    <img id="qi"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/21.Qi.jpg" width="150px" height="125px"/>
+  </div>
+ <div class="photoContainer">
+    <img id="steve"  src="/Users/AbhiKemp/Desktop/jQuery_Project2/facultyImages/22.Steve.jpg" width="150px" height="125px"/>
+  </div>
+<br/><br/>
+<div id="footer">
+</div>
+<hr>
+ <form>
+    <val>
+    <ul>
+         <li><inTitle><font color="red">Please Fill the Form</font></inTitle>
+    </ul>
+       <ul>
+           <li><label><font color="yellow">NAME</font></label></li>
+        </ul>
+        <ul>
+           <li><input type="text" id="name" class="rounded"
+                style="width: 180px; height: 20px; align:center;"></li>
+        </ul>
+        <ul>
+           <li><label><font color="yellow">COUNTRY</font></label></li>
+        </ul>
+        <ul>
+           <li><input type="text" id="country" class="rounded"
+                style="width: 180px; height: 20px; align:center;"></li>
+        </ul>
+          <ul>
+           <li><label><font color="yellow">PHONE NUMBER</font></label></li>
+        </ul>
+        <ul>
+           <li><input type="text" id="pnumber" class="rounded"
+                style="width: 180px; height: 20px; align:center;"></li>
+        </ul>
+         <ul>
+           <li><label><font color="yellow">COURSE INTEREST</font></label></li>
+        </ul>
+        <ul>
+           <li><input type="text" id="courseInterest" class="rounded"
+                style="width: 180px; height: 20px; align:center;"></li>
+        </ul>
+      
+        <ul>
+          <li>
+              <button type="reset" value="Reset" class="reset"
+                  style="width:80px;height:19px; font-family: Arial; font size:100%;cursor:pointer">Reset</button><input type="submit" class="submit" value="Submit"
+                onclick="ValidateValue()"
+                  style="width:100px;height:20px; font-family: Arial; font size:100%;cursor:pointer">
+          </li>
+        </ul>
+     </val>
+  </form>
+<hr>
+<div id="lastfooter">
+ <h4>Copyright@<span class="colour">Rochester Institute of Technology.</span>All Rights Reserved</h4>
+</div>
+</body>
+</html>

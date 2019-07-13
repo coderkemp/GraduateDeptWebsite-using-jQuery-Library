@@ -1,0 +1,2615 @@
+    
+{
+    "data": [
+        {
+            "employer": "RIT - Information & Technology Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20141"
+        },
+        {
+            "employer": "Pearson Education",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "term": "20138"
+        },
+        {
+            "employer": "Skyvo",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Energy Curtailment Specialists Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "term": "20138"
+        },
+        {
+            "employer": "1stdibs",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Intuit",
+            "degree": "INFOTEC-BS",
+            "city": "Mountain View CA",
+            "term": "20138"
+        },
+        {
+            "employer": "EnerNOC Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "term": "20138"
+        },
+        {
+            "employer": "iD Tech Camps (Internal Drive)",
+            "degree": "INFOTEC-BS",
+            "city": "Campbell CA",
+            "term": "20138"
+        },
+        {
+            "employer": "W A Krapf Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Macedon NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Wyman Gordon",
+            "degree": "INFOTEC-BS",
+            "city": "Houston TX",
+            "term": "20138"
+        },
+        {
+            "employer": "JetBlue",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Calix",
+            "degree": "INFOTEC-BS",
+            "city": "San Jose CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Envative",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Tory Burch LLC",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Sensored Life, LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Penn Yan NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Lockheed Martin",
+            "degree": "INFOTEC-BS",
+            "city": "Orlando FL",
+            "term": "20138"
+        },
+        {
+            "employer": "Constellation Brands Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Canandaigua NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Access & Video Solutions (formerly Lenel)",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Software Engineering",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Adventive Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "IPC Systems Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Fairfield CT",
+            "term": "20138"
+        },
+        {
+            "employer": "Wayne-Finger Lakes BOCES",
+            "degree": "INFOTEC-BS",
+            "city": "Newark NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Wayne-Finger Lakes BOCES",
+            "degree": "INFOTEC-BS",
+            "city": "Newark NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Saratoga Hospital",
+            "degree": "INFOTEC-BS",
+            "city": "Saratoga Springs NY",
+            "term": "20138"
+        },
+        {
+            "employer": "American Greetings",
+            "degree": "INFOTEC-BS",
+            "city": "Cleveland OH",
+            "term": "20138"
+        },
+        {
+            "employer": "Cerner Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Kansas City MO",
+            "term": "20138"
+        },
+        {
+            "employer": "REDCOM Laboratories Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Xerox Corporation - Roch-S Clinton",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Alcoa Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsburgh PA",
+            "term": "20138"
+        },
+        {
+            "employer": "Palantir Technologies",
+            "degree": "ANSA-BS",
+            "city": "Palo Alto CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Portsmouth NH",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Golisano College of Computing",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Target Corp",
+            "degree": "ANSA-BS",
+            "city": "Minneapolis MN",
+            "term": "20138"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Dover NH",
+            "term": "20138"
+        },
+        {
+            "employer": "Frontrunner Network Systems",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Exablox",
+            "degree": "ANSA-BS",
+            "city": "Sunnyvale CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Barilla America Inc",
+            "degree": "ANSA-BS",
+            "city": "Avon NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Advance Mold & Manufacturing Inc",
+            "degree": "ANSA-BS",
+            "city": "Manchester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Cheiron Inc",
+            "degree": "ANSA-BS",
+            "city": "McLean VA",
+            "term": "20138"
+        },
+        {
+            "employer": "M&T Bank",
+            "degree": "ANSA-BS",
+            "city": "Amherst NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Harris Corporation",
+            "degree": "ANSA-BS",
+            "city": "Melbourne FL",
+            "term": "20138"
+        },
+        {
+            "employer": "Datasol Inc.",
+            "degree": "ANSA-BS",
+            "city": "Ashburn VA",
+            "term": "20138"
+        },
+        {
+            "employer": "Consumer Reports",
+            "degree": "ANSA-BS",
+            "city": "Yonkers NY",
+            "term": "20138"
+        },
+        {
+            "employer": "CommVault Systems, Inc.",
+            "degree": "ANSA-BS",
+            "city": "Oceanport NJ",
+            "term": "20138"
+        },
+        {
+            "employer": "Hitachi Data Systems",
+            "degree": "ANSA-BS",
+            "city": "waltham MA",
+            "term": "20138"
+        },
+        {
+            "employer": "Muller Quaker Dairy LLC",
+            "degree": "ANSA-BS",
+            "city": "Batavia NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Information & Technology Services",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Greenlight Networks",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "athenahealth Inc.",
+            "degree": "ANSA-BS",
+            "city": "Watertown MA",
+            "term": "20138"
+        },
+        {
+            "employer": "Watson Communications",
+            "degree": "ANSA-BS",
+            "city": "King of Prussia PA",
+            "term": "20138"
+        },
+        {
+            "employer": "USAA (United Services Automobile Association)",
+            "degree": "ANSA-BS",
+            "city": "San Antonio TX",
+            "term": "20138"
+        },
+        {
+            "employer": "SER GmbH",
+            "degree": "ANSA-BS",
+            "city": "Neustadt(Wied), Germany ",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Research Computing",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Nyoozi",
+            "degree": "ANSA-BS",
+            "city": "Jeddah, Makkah ",
+            "term": "20138"
+        },
+        {
+            "employer": "Fancy Pants",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Greenlight Networks",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Blackrock",
+            "degree": "INFOTEC-MS",
+            "city": "New York NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Juniper Networks Inc",
+            "degree": "NETSYS-MS",
+            "city": "Sunnyvale CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Euclid Technology",
+            "degree": "INFOTEC-MS",
+            "city": "Bethesda MD",
+            "term": "20138"
+        },
+        {
+            "employer": "RecordsOne",
+            "degree": "INFOTEC-MS",
+            "city": "Naples FL",
+            "term": "20138"
+        },
+        {
+            "employer": "eClinical Works",
+            "degree": "INFOTEC-MS",
+            "city": "Westborough MA",
+            "term": "20138"
+        },
+        {
+            "employer": "Apple, Inc.",
+            "degree": "INFOTEC-MS",
+            "city": "Cupertino CA",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Research Computing",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Jet Century Beijing Technology Ltd.",
+            "degree": "INFOTEC-BS",
+            "city": "Beijing, China ",
+            "term": "20138"
+        },
+        {
+            "employer": "GEICO",
+            "degree": "INFOTEC-BS",
+            "city": "Chevy Chase MD",
+            "term": "20138"
+        },
+        {
+            "employer": "Blue Cross Blue Shield of Western NY",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Golisano College of Computing",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "EMS eSchedule",
+            "degree": "INFOTEC-BS",
+            "city": "Fairport NY",
+            "term": "20138"
+        },
+        {
+            "employer": "ALK Technologies",
+            "degree": "INFOTEC-MS",
+            "city": "Princeton NJ",
+            "term": "20138"
+        },
+        {
+            "employer": "ESRI, Implementation Services",
+            "degree": "INFOTEC-MS",
+            "city": "Redlands CA",
+            "term": "20138"
+        },
+        {
+            "employer": "IBM Corp",
+            "degree": "NETSYS-MS",
+            "city": "Tucson AZ",
+            "term": "20138"
+        },
+        {
+            "employer": "EMC, RSA Security Inc",
+            "degree": "NETSYS-MS",
+            "city": "Bedford MA",
+            "term": "20138"
+        },
+        {
+            "employer": "Ecalix Inc.",
+            "degree": "NETSYS-MS",
+            "city": "Fremont CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Thor Group",
+            "degree": "NETSYS-MS",
+            "city": "El Segundo CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Symplicity Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Arlington VA",
+            "term": "20138"
+        },
+        {
+            "employer": "Box Inc",
+            "degree": "NETSYS-MS",
+            "city": "Los Altos CA",
+            "term": "20138"
+        },
+        {
+            "employer": "Genesee & Wyoming Inc",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Experis",
+            "degree": "NETSYS-MS",
+            "city": "Raleigh NC",
+            "term": "20138"
+        },
+        {
+            "employer": "CoVal Systems",
+            "degree": "NETSYS-MS",
+            "city": "Ardmore PA",
+            "term": "20138"
+        },
+        {
+            "employer": "PCC Structurals",
+            "degree": "NETSYS-BS",
+            "city": "Groton CT",
+            "term": "20138"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "NETSYS-BS",
+            "city": "Spencerport NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Annese & Associates, Inc.",
+            "degree": "NETSYS-BS",
+            "city": "North Syracuse NY",
+            "term": "20138"
+        },
+        {
+            "employer": "BEE Co Ltd",
+            "degree": "INFOTEC-BS",
+            "city": "Wakayama, Japan ",
+            "term": "20138"
+        },
+        {
+            "employer": "Datto Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Norwalk CT",
+            "term": "20138"
+        },
+        {
+            "employer": "Wayne-Finger Lakes BOCES",
+            "degree": "INFOTEC-BS",
+            "city": "Newark NY",
+            "term": "20138"
+        },
+        {
+            "employer": "City of Rochester - Information Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Agrez Consulting Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rush NY",
+            "term": "20138"
+        },
+        {
+            "employer": "UNICEF",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Computer SOS Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Cheektowaga NY",
+            "term": "20138"
+        },
+        {
+            "employer": "University of Rochester Medical Center - Marketing Group",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Frontier Corp/A Citizens Comm. Co.",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Interactive Intelligence Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Indianapolis IN",
+            "term": "20138"
+        },
+        {
+            "employer": "Cincinnati Children's Hospital Medical Center",
+            "degree": "INFOTEC-BS",
+            "city": "Cincinnati OH",
+            "term": "20138"
+        },
+        {
+            "employer": "Federal Reserve Board",
+            "degree": "INFOTEC-BS",
+            "city": "Washington DC",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - School of Mathematical Sciences",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Mediacom Communications Corp",
+            "degree": "INFOTEC-BS",
+            "city": "Mediacom Park NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Wegmans Food Markets Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - Information & Technology Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "BrokenMyth Studios LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Fairport NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Discover Financial Services",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Boston Engineering Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Waltham MA",
+            "term": "20138"
+        },
+        {
+            "employer": "OneLeap",
+            "degree": "INFOTEC-BS",
+            "city": "Mumbai, India ",
+            "term": "20138"
+        },
+        {
+            "employer": "University of Rochester Medical Center - School of Nursing",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20138"
+        },
+        {
+            "employer": "SA IT Services",
+            "degree": "INFOTEC-BS",
+            "city": "Roswell GA",
+            "term": "20138"
+        },
+        {
+            "employer": "Wayne-Finger Lakes BOCES",
+            "degree": "INFOTEC-BS",
+            "city": "Newark NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Verizon Wireless",
+            "degree": "INFOTEC-BS",
+            "city": "Orangeburg NY",
+            "term": "20138"
+        },
+        {
+            "employer": "Town of Pittsford",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20138"
+        },
+        {
+            "employer": "EDM Americas",
+            "degree": "INFOTEC-BS",
+            "city": "Scranton PA",
+            "term": "20138"
+        },
+        {
+            "employer": "Apollo Education Group",
+            "degree": "INFOTEC-BS",
+            "city": "Phoenix AZ",
+            "term": "20138"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT-NTID - Technical Support Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Wegmans Food Markets Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Alpine Software",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Superior Plus Energy",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "INFOTEC-BS",
+            "city": "Spencerport NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - The Wallace Center",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - Saunders College of Business",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "CaterTrax",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "INFOTEC-BS",
+            "city": "Spencerport NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "INFOTEC-BS",
+            "city": "Spencerport NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Webster NY",
+            "term": "20135"
+        },
+        {
+            "employer": "C&S Engineers",
+            "degree": "INFOTEC-BS",
+            "city": "Syracuse NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Classic Automation LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Webster NY",
+            "term": "20135"
+        },
+        {
+            "employer": "2e Systems",
+            "degree": "INFOTEC-BS",
+            "city": "Zagreb, Croatia ",
+            "term": "20135"
+        },
+        {
+            "employer": "Calero",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20135"
+        },
+        {
+            "employer": "WingTips Interactive LLC",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - ITS Desktop Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Cisco SF",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "term": "20135"
+        },
+        {
+            "employer": "Datto Inc.",
+            "degree": "ANSA-BS",
+            "city": "Norwalk CT",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Wilmorite Management Group LLC",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Passero Associates",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "San Jose CA",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Boutique IT Solutions",
+            "degree": "ANSA-BS",
+            "city": "North Ridgeville OH",
+            "term": "20135"
+        },
+        {
+            "employer": "Wegmans Food Markets Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "GE Digital Energy &#226;&#128;&#147; MDS",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Wyman Gordon",
+            "degree": "INFOTEC-BS",
+            "city": "Houston TX",
+            "term": "20135"
+        },
+        {
+            "employer": "City of Rochester - Information Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "M&T Bank",
+            "degree": "ANSA-BS",
+            "city": "Amherst NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Calero",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Causbuzz",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Intuit",
+            "degree": "INFOTEC-MS",
+            "city": "San Diego CA",
+            "term": "20135"
+        },
+        {
+            "employer": "Intuit",
+            "degree": "INFOTEC-MS",
+            "city": "Mountain View CA",
+            "term": "20135"
+        },
+        {
+            "employer": "Syracuse University",
+            "degree": "NETSYS-MS",
+            "city": "Syracuse NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Microsoft Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Redmond WA",
+            "term": "20135"
+        },
+        {
+            "employer": "Wegmans Food Markets Inc",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Constellation Brands",
+            "degree": "NETSYS-MS",
+            "city": "Victor NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Cisco SF",
+            "degree": "NETSYS-MS",
+            "city": "San Francisco CA",
+            "term": "20135"
+        },
+        {
+            "employer": "Causbuzz",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "ANSA-BS",
+            "city": "Spencerport NY",
+            "term": "20135"
+        },
+        {
+            "employer": "BlueTie Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Zeller: A Kaman Company",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Boutique IT Solutions",
+            "degree": "ANSA-BS",
+            "city": "North Ridgeville OH",
+            "term": "20135"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "term": "20135"
+        },
+        {
+            "employer": "Constellation Brands",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-MS",
+            "city": "Durham NC",
+            "term": "20135"
+        },
+        {
+            "employer": "Datto Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Norwalk CT",
+            "term": "20135"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Surpass Chemical. Co.",
+            "degree": "INFOTEC-BS",
+            "city": "Albany NY",
+            "term": "20135"
+        },
+        {
+            "employer": "PCC Structurals",
+            "degree": "INFOTEC-BS",
+            "city": "Groton CT",
+            "term": "20135"
+        },
+        {
+            "employer": "Harris Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Lynchburg VA",
+            "term": "20135"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Webster NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Brand Networks Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "RIT - Distributed Support Svcs",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Monroe Community Hospital",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20135"
+        },
+        {
+            "employer": "FactSet Research Systems Inc.",
+            "degree": "INFOTEC-MS",
+            "city": "Norwalk CT",
+            "term": "20135"
+        },
+        {
+            "employer": "BlueTie Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20135"
+        },
+        {
+            "employer": "The MathWorks",
+            "degree": "INFOTEC-MS",
+            "city": "Natick MA",
+            "term": "20135"
+        },
+        {
+            "employer": "Power Costs Inc.",
+            "degree": "INFOTEC-MS",
+            "city": "Norman OK",
+            "term": "20135"
+        },
+        {
+            "employer": "HCL America",
+            "degree": "INFOTEC-MS",
+            "city": "Webster NY",
+            "term": "20135"
+        },
+        {
+            "employer": "SapientNitro",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "term": "20131"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Datto Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Norwalk CT",
+            "term": "20131"
+        },
+        {
+            "employer": "Monroe County - Dept of Information Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Citigroup",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20131"
+        },
+        {
+            "employer": "HCL America",
+            "degree": "INFOTEC-MS",
+            "city": "Webster NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Complemar Partners",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Railcomm Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Fairport NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Boston Engineering Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Waltham MA",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Information & Technology Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT-NTID - Technical Support Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Classic Automation LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Webster NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Distributed Support Svcs",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "JMA Wireless",
+            "degree": "INFOTEC-BS",
+            "city": "Liverpool NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Durham NC",
+            "term": "20131"
+        },
+        {
+            "employer": "2ndnature::an interactive studio",
+            "degree": "INFOTEC-BS",
+            "city": "Syracuse NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Calero",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20131"
+        },
+        {
+            "employer": "City of Rochester - Information Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Samsung Information Systems America (SISA)",
+            "degree": "INFOTEC-MS",
+            "city": "San Jose CA",
+            "term": "20131"
+        },
+        {
+            "employer": "Thomson Reuters",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "SapientNitro",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "term": "20131"
+        },
+        {
+            "employer": "Symantec Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Herndon VA",
+            "term": "20131"
+        },
+        {
+            "employer": "McCabe Associates Inc",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Progressive Expert Consulting",
+            "degree": "NETSYS-MS",
+            "city": "Syracuse NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Syracuse University",
+            "degree": "NETSYS-MS",
+            "city": "Syracuse NY",
+            "term": "20131"
+        },
+        {
+            "employer": "ComTec Solutions",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "InsidersReferral.com",
+            "degree": "INFOTEC-MS",
+            "city": "Austin TX",
+            "term": "20131"
+        },
+        {
+            "employer": "Skillsoft Corp (formerly Element K)",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "VI Manufacturing Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Webster NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Omni-ID",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Intuit",
+            "degree": "INFOTEC-MS",
+            "city": "San Diego CA",
+            "term": "20131"
+        },
+        {
+            "employer": "Constant Contact",
+            "degree": "INFOTEC-MS",
+            "city": "Waltham MA",
+            "term": "20131"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Cavalier IT Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Jersey City NJ",
+            "term": "20131"
+        },
+        {
+            "employer": "UPS Information Services",
+            "degree": "INFOTEC-MS",
+            "city": "Mahwah NJ",
+            "term": "20131"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Golisano College of Computing",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Fathom Ideaware",
+            "degree": "INFOTEC-BS",
+            "city": "Irving TX",
+            "term": "20131"
+        },
+        {
+            "employer": "Interactive Intelligence Inc",
+            "degree": "ANSA-BS",
+            "city": "Indianapolis IN",
+            "term": "20131"
+        },
+        {
+            "employer": "Zeller: A Kaman Company",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "San Jose CA",
+            "term": "20131"
+        },
+        {
+            "employer": "Iberdrola USA Management Corporation",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "ANSA-BS",
+            "city": "Merrimack NH",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Distributed Support Svcs",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Datto Inc.",
+            "degree": "ANSA-BS",
+            "city": "Norwalk CT",
+            "term": "20131"
+        },
+        {
+            "employer": "Savant Systems",
+            "degree": "ANSA-BS",
+            "city": "Osterville MA",
+            "term": "20131"
+        },
+        {
+            "employer": "Exablox",
+            "degree": "ANSA-BS",
+            "city": "Sunnyvale CA",
+            "term": "20131"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "ANSA-BS",
+            "city": "Webster NY",
+            "term": "20131"
+        },
+        {
+            "employer": "WingTips Interactive LLC",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Saunders College of Business",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Internet Archive",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "term": "20131"
+        },
+        {
+            "employer": "Sigma Marketing",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Interactive Intelligence Inc",
+            "degree": "ANSA-BS",
+            "city": "Indianapolis IN",
+            "term": "20131"
+        },
+        {
+            "employer": "Wilmorite Management Group LLC",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - ITS/Labs",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Nazareth College",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT-NTID - Technical Support Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "University of Rochester - Lab for Laser Energetics",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "PCC Structurals",
+            "degree": "INFOTEC-BS",
+            "city": "Groton CT",
+            "term": "20131"
+        },
+        {
+            "employer": "Superior Plus Energy",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Alpine Software",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Saunders College of Business",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "term": "20131"
+        },
+        {
+            "employer": "ShoreTel Sky (formerly M5 Networks)",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "term": "20131"
+        },
+        {
+            "employer": "Lenel Systems International",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Rich Products",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Wyman Gordon",
+            "degree": "INFOTEC-BS",
+            "city": "Houston TX",
+            "term": "20131"
+        },
+        {
+            "employer": "HSBC",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "term": "20131"
+        },
+        {
+            "employer": "Wegmans Food Markets Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "City of Rochester - Information Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20131"
+        },
+        {
+            "employer": "RIT - Research Computing",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Oracle",
+            "degree": "INFOTEC-BS",
+            "city": "Bala Cynwyd PA",
+            "term": "20124"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "term": "20124"
+        },
+        {
+            "employer": "PCC Structurals",
+            "degree": "INFOTEC-BS",
+            "city": "Groton CT",
+            "term": "20124"
+        },
+        {
+            "employer": "Thomson Reuters",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "M&T Bank",
+            "degree": "INFOTEC-BS",
+            "city": "Amherst NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Rochester Software Associates",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Rich Products",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Wyman Gordon",
+            "degree": "INFOTEC-BS",
+            "city": "Houston TX",
+            "term": "20124"
+        },
+        {
+            "employer": "Nazareth College",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - The Wallace Center",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - ITS/Labs",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Mitre Corp",
+            "degree": "ANSA-BS",
+            "city": "Mclean VA",
+            "term": "20124"
+        },
+        {
+            "employer": "Cleveland Clinic",
+            "degree": "ANSA-BS",
+            "city": "Cleveland OH",
+            "term": "20124"
+        },
+        {
+            "employer": "Intelsat",
+            "degree": "ANSA-BS",
+            "city": "Washington DC",
+            "term": "20124"
+        },
+        {
+            "employer": "Niagara County",
+            "degree": "ANSA-BS",
+            "city": "Lockport NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Fibertech Networks Inc",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "ESL Federal Credit Union",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "Research Triangle Park NC",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Distributed Support Svcs",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "ESL Federal Credit Union",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Research Computing",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Hudson Valley IT Solutions",
+            "degree": "INFOTEC-BS",
+            "city": "New Paltz NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RDI Diamonds, Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "W A Krapf Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Macedon NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Quabaug Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "North Brookfield MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Parse3",
+            "degree": "INFOTEC-BS",
+            "city": "Warwick NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Excellus BlueCross BlueShield",
+            "degree": "INFOTEC-BS",
+            "city": "Syracuse NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Saunders College of Business",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "term": "20124"
+        },
+        {
+            "employer": "The Adirondack Trust Company",
+            "degree": "INFOTEC-BS",
+            "city": "Saratoga Springs NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Hammond Lumber Co",
+            "degree": "INFOTEC-BS",
+            "city": "Belgrade ME",
+            "term": "20124"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Dover NH",
+            "term": "20124"
+        },
+        {
+            "employer": "The Hartford Financial Services Group, Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Hartford CT",
+            "term": "20124"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "term": "20124"
+        },
+        {
+            "employer": "HSBC",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Wegmans Food Markets Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Southwest Dermatology",
+            "degree": "INFOTEC-BS",
+            "city": "Orland Park IL",
+            "term": "20124"
+        },
+        {
+            "employer": "Erie Insurance Group",
+            "degree": "INFOTEC-BS",
+            "city": "Erie PA",
+            "term": "20124"
+        },
+        {
+            "employer": "Wireless Generation",
+            "degree": "INFOTEC-BS",
+            "city": "Brooklyn NY",
+            "term": "20124"
+        },
+        {
+            "employer": "ShoreTel Sky (formerly M5 Networks)",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Time Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Eastern Millwork Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Jersey City NJ",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Center for Student Innovation",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "SmugMug",
+            "degree": "INFOTEC-BS",
+            "city": "Mountain View CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "San Jose CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Box Inc",
+            "degree": "ANSA-BS",
+            "city": "Los Altos CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Internet Archive",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "Morrisville NC",
+            "term": "20124"
+        },
+        {
+            "employer": "University of Rochester Medical Center - Information System Division",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "ANSA-BS",
+            "city": "Merrimack NH",
+            "term": "20124"
+        },
+        {
+            "employer": "Manning & Napier Advisors Inc",
+            "degree": "ANSA-BS",
+            "city": "Fairport NY",
+            "term": "20124"
+        },
+        {
+            "employer": "M&T Bank",
+            "degree": "ANSA-BS",
+            "city": "Amherst NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - ITS/Technical Support",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "Boxborough MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco SF",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "term": "20124"
+        },
+        {
+            "employer": "USAA (United Services Automobile Association)",
+            "degree": "ANSA-BS",
+            "city": "San Antonio TX",
+            "term": "20124"
+        },
+        {
+            "employer": "REI Building Services",
+            "degree": "ANSA-BS",
+            "city": "Wakefield MA",
+            "term": "20124"
+        },
+        {
+            "employer": "The Hershey Company",
+            "degree": "ANSA-BS",
+            "city": "Hershey PA",
+            "term": "20124"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "ANSA-BS",
+            "city": "Spencerport NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Wilmorite Management Group LLC",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "PSE",
+            "degree": "ANSA-BS",
+            "city": "Springfield NJ",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco SF",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Interactive Intelligence Inc",
+            "degree": "ANSA-BS",
+            "city": "Indianapolis IN",
+            "term": "20124"
+        },
+        {
+            "employer": "Wilmorite Management Group LLC",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Interactive Intelligence Inc",
+            "degree": "ANSA-BS",
+            "city": "Indianapolis IN",
+            "term": "20124"
+        },
+        {
+            "employer": "Box Inc",
+            "degree": "ANSA-BS",
+            "city": "Los Altos CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Railcomm Inc",
+            "degree": "ANSA-BS",
+            "city": "Fairport NY",
+            "term": "20124"
+        },
+        {
+            "employer": "MFS Investment Management",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "term": "20124"
+        },
+        {
+            "employer": "EarthLink",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Rochester Software Associates",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "ANSA-BS",
+            "city": "Merrimack NH",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Information Security Office",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Portsmouth NH",
+            "term": "20124"
+        },
+        {
+            "employer": "Iberdrola USA Management Corporation",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Acquia Inc",
+            "degree": "ANSA-BS",
+            "city": "Burlington MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Friendly Home",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "The Hershey Company",
+            "degree": "ANSA-BS",
+            "city": "Hershey PA",
+            "term": "20124"
+        },
+        {
+            "employer": "Philips North America",
+            "degree": "ANSA-BS",
+            "city": "Andover MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "Richardson TX",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Research Computing",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Exablox",
+            "degree": "ANSA-BS",
+            "city": "Sunnyvale CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Savant Systems",
+            "degree": "ANSA-BS",
+            "city": "Osterville MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Partners + Napier",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "ANSA-BS",
+            "city": "Spencerport NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Synchronos Technologies Inc",
+            "degree": "ANSA-BS",
+            "city": "Bridgewater NJ",
+            "term": "20124"
+        },
+        {
+            "employer": "Datto Inc.",
+            "degree": "ANSA-BS",
+            "city": "Norwalk CT",
+            "term": "20124"
+        },
+        {
+            "employer": "CMA Systems",
+            "degree": "ANSA-BS",
+            "city": "Laurel MD",
+            "term": "20124"
+        },
+        {
+            "employer": "BOCES Monroe #2",
+            "degree": "ANSA-BS",
+            "city": "Spencerport NY",
+            "term": "20124"
+        },
+        {
+            "employer": "TEKSystems",
+            "degree": "ANSA-BS",
+            "city": "Pittsford NY",
+            "term": "20124"
+        },
+        {
+            "employer": "D4 LLC",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Computer SOS Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Cheektowaga NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Surpass Chemical. Co.",
+            "degree": "INFOTEC-BS",
+            "city": "Albany NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20124"
+        },
+        {
+            "employer": "CityWhisk",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Saunders Startup",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "UPS Information Services",
+            "degree": "INFOTEC-MS",
+            "city": "Mahwah NJ",
+            "term": "20124"
+        },
+        {
+            "employer": "CypherWorx - NP Training Works",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-MS",
+            "city": "Victor NY",
+            "term": "20124"
+        },
+        {
+            "employer": "JPMorgan Chase",
+            "degree": "INFOTEC-MS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "FUJIFILM NORTH AMERICA",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "The Distinguished Programs Group",
+            "degree": "INFOTEC-MS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Credit Suisse",
+            "degree": "INFOTEC-MS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Thomson Reuters",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Hitachi Data Systems",
+            "degree": "INFOTEC-BS",
+            "city": "waltham MA",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Saunders Startup",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Monroe County - Dept of Information Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Vascular Access Centers",
+            "degree": "INFOTEC-BS",
+            "city": "Philadelphia PA",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Information & Technology Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Citigroup",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "HCL America",
+            "degree": "INFOTEC-MS",
+            "city": "Frisco TX",
+            "term": "20124"
+        },
+        {
+            "employer": "Complemar Partners",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Samsung Information Systems America (SISA)",
+            "degree": "INFOTEC-MS",
+            "city": "San Jose CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Constant Contact",
+            "degree": "INFOTEC-MS",
+            "city": "Waltham MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Siteworx Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Reston VA",
+            "term": "20124"
+        },
+        {
+            "employer": "Intuit",
+            "degree": "INFOTEC-MS",
+            "city": "San Diego CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Oceana Inc",
+            "degree": "MEDINFO-BS",
+            "city": "Washington DC",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Saunders Startup",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "University of Rochester - Info Technology",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Independent Health",
+            "degree": "MEDINFO-BS",
+            "city": "Buffalo NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Syracuse University",
+            "degree": "NETSYS-MS",
+            "city": "Syracuse NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Microsoft Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Redmond WA",
+            "term": "20124"
+        },
+        {
+            "employer": "Progressive Expert Consulting",
+            "degree": "NETSYS-MS",
+            "city": "Syracuse NY",
+            "term": "20124"
+        },
+        {
+            "employer": "McCabe Associates Inc",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Credit Suisse",
+            "degree": "NETSYS-MS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Excellus BlueCross BlueShield",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "University of Florida",
+            "degree": "MEDINFO-BS",
+            "city": "Gainesville FL",
+            "term": "20124"
+        },
+        {
+            "employer": "Omni-ID",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RGRTA (Rochester Genesee Regional Transportation Authority)",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Skillsoft Corp (formerly Element K)",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "InsidersReferral.com",
+            "degree": "INFOTEC-MS",
+            "city": "Austin TX",
+            "term": "20124"
+        },
+        {
+            "employer": "HCL America",
+            "degree": "INFOTEC-MS",
+            "city": "Webster NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Bio-Optronics",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "University of Rochester - Info Technology",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "InterSystems Corporation",
+            "degree": "MEDINFO-BS",
+            "city": "Cambridge MA",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Saunders College of Business",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Symantec Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Herndon VA",
+            "term": "20124"
+        },
+        {
+            "employer": "Novaworks Software",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Trillium Health (formerly AIDS Care Rochester)",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Fathom Ideaware",
+            "degree": "INFOTEC-BS",
+            "city": "Irving TX",
+            "term": "20124"
+        },
+        {
+            "employer": "Cisco SF",
+            "degree": "INFOTEC-BS",
+            "city": "San Francisco CA",
+            "term": "20124"
+        },
+        {
+            "employer": "Garlock Sealing Technologies",
+            "degree": "INFOTEC-BS",
+            "city": "Palmyra NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Federal Deposit Insurance Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Arlington VA",
+            "term": "20124"
+        },
+        {
+            "employer": "Citizens Business Bank",
+            "degree": "INFOTEC-BS",
+            "city": "Ontario ",
+            "term": "20124"
+        },
+        {
+            "employer": "OnCell Systems Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Frontier Corp/A Citizens Comm. Co.",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT-NTID - Technical Support Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "University of Rochester - Dept of Medicine",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Computing & Information Services",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "JPMorgan Chase",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "University of Rochester - Info Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "ESL Federal Credit Union",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Thomson Reuters",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "America Online/Huffington Post",
+            "degree": "INFOTEC-BS",
+            "city": "Dulles VA",
+            "term": "20124"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "ComTec Solutions",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "General Motors Components Holdings LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "term": "20124"
+        },
+        {
+            "employer": "Paychex Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Bank of America Merrill Lynch",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Windstream",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Classic Automation LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Webster NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Calero Software (formerly Veramark)",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "2ndnature::an interactive studio",
+            "degree": "INFOTEC-BS",
+            "city": "Syracuse NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Xerox Corporation - Roch-S Clinton",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Allscripts Healthcare",
+            "degree": "INFOTEC-BS",
+            "city": "Melville NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Calero",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20124"
+        },
+        {
+            "employer": "LaserMax Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Myspiderweb",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Boston Engineering Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Waltham MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Arnold Worldwide",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "term": "20124"
+        },
+        {
+            "employer": "Excellus BlueCross BlueShield",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "term": "20124"
+        },
+        {
+            "employer": "Bergmann Associates",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Cerner Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Kansas City MO",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Distributed Support Svcs",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "JPMorgan Chase",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "IBM Corp",
+            "degree": "INFOTEC-BS",
+            "city": "Poughkeepsie NY",
+            "term": "20124"
+        },
+        {
+            "employer": "RIT - Saunders Startup",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Brite Computers",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "term": "20124"
+        },
+        {
+            "employer": "The Distinguished Programs Group",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "term": "20124"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Durham NC",
+            "term": "20124"
+        },
+        {
+            "employer": "Wilmac",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "term": "20124"
+        }
+    ]
+}

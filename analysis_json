@@ -1,0 +1,65 @@
+{
+"realms":      [{"type":"pvp","population":"n/a","queue":false,"status":true,"name":"Aegwynn","slug":"aegwynn","battlegroup":"Vengeance","locale":"en_US","timezone":"America/Chicago","connected_realms":["daggerspine","bonechewer","gurubashi","hakkar","aegwynn"]},
+
+{"type":"pve","population":"low","queue":false,"status":true,"name":"Aerie Peak","slug":"aerie-peak","battlegroup":"Vindication","locale":"en_US","timezone":"America/Los_Angeles","connected_realms":["aerie-peak"]},
+
+{"type":"pvp","population":"low","queue":false,"status":true,"name":"Agamaggan","slug":"agamaggan","battlegroup":"Shadowburn","locale":"en_US","timezone":"America/Chicago","connected_realms":["agamaggan","burning-legion","the-underbog","archimonde","jaedenar"]}
+]}
+
+
+realms:[{type:pvp,
+         population:n/a,
+         queue:false,
+         status:true,
+         name:Aegynn,
+         slug:aegynn,
+         battlegroup:vengeance,
+         locale:en_us,
+         timezone:america/chicago,
+         connected_realms:[0,1,2,3,4]
+         },
+         {type:pve,
+         population:low,
+         queue:false,
+         status:true,
+         name:Aerie Peak,
+         slug:aerie-peak,
+         battlegroup:vindication,
+         locale:en_us,
+         timezone:america/los_angeles,
+         connected_realms:[0]
+         }
+]
+
+
+ function displayRealmPop() {
+            $.getJSON("https://us.api.battle.net/wow/realm/status?locale=en_US&apikey=nhwxrsyqnv4tgu74s2drukpn2wv85gke")
+            .done(function (data) {
+                $.each(data.realms, function (i, realm) {
+                    var li = document.createElement("li");
+                    $(li).append(document.createTextNode(realm.name));
+                    $(li).hover(function () {
+                        this.style.backgroundColor = "#ffffcc";
+                        showRealmDetails(realm);
+                    },
+                    function () {
+                        this.style.backgroundColor = "white";
+                    }
+                    )
+                    $("#RealmsContent").append(li);
+                });
+            })
+            .fail(function () {
+                alert('biffed');
+            });
+        }
+        
+          function showRealmDetails(realm) {
+            $("#name").html(realm.name);
+            $("#type").html(realm.type);
+            $("#population").html(realm.population);
+            $("#status").html(realm.status);
+            $("#locale").html(realm.locale);
+            $("#timezone").html(realm.timezone);
+            $("#RealmDetails").fadeIn();
+        }

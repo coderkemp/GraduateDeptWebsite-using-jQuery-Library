@@ -1,0 +1,3141 @@
+    
+{
+    "data": [
+        {
+            "employer": "Morgan Stanley",
+            "degree": "INFOTEC-MS",
+            "city": "New York NY",
+            "title": "Software Developer/Associate",
+            "startDate": "2013-09-16"
+        },
+        {
+            "employer": "Frontier Communications",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Programmer/Analyst",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "NovaWorks",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Developer",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Wilmac Co",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Developer",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "title": "Technology Leadership Program",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Xerox",
+            "degree": "INFOTEC-BS",
+            "city": "Webster NY",
+            "title": "Technical Helpdesk Analyst",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Marist College",
+            "degree": "INFOTEC-BS",
+            "city": "Poughkeepsie NY",
+            "title": "ERP Applications Developer",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "ROC Brewing Co",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "ROC Brewing Co Android App",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Dover NH",
+            "title": "Associate Systems Analyst",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Palantir Technologies",
+            "degree": "INFOTEC-BS",
+            "city": "Palo Alto CA",
+            "title": "Unix Systems Administrator",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web and Database Specialist",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Thomson-Reuters",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Associate Software Engineer in Test",
+            "startDate": "2013-08-23"
+        },
+        {
+            "employer": "Shoretel",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "NOC Engineer",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "InterSystems Corporation",
+            "degree": "MEDINFO-BS",
+            "city": "Cambridge MA",
+            "title": "Quality Development Engineer",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "Box",
+            "degree": "ANSA-BS",
+            "city": "Palo Alto CA",
+            "title": "Network Operations Technician",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Systems Administrator department of industrial and",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "RailComm",
+            "degree": "ANSA-BS",
+            "city": "Fairport NY",
+            "title": "Systems Administrator",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Raleigh NC",
+            "title": "Network Support Engineer",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "Best Buy",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "GeekSquad CIA",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "Box",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "title": "Operations Technician",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "Fibertech Networks",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Lit Technician",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "SCI",
+            "degree": "ANSA-BS",
+            "city": "Queensbury NY",
+            "title": "Systems Administrator",
+            "startDate": "2013-08-22"
+        },
+        {
+            "employer": "CypherWorx",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Senior Web Programmer",
+            "startDate": "2013-08-21"
+        },
+        {
+            "employer": "Touchstream Solutions LLC",
+            "degree": "NETSYS-MS",
+            "city": "West Henrietta NY",
+            "title": "Software Engineer",
+            "startDate": "2013-08-21"
+        },
+        {
+            "employer": "Sterling Savings Bank",
+            "degree": "INFOTEC-MS",
+            "city": "Spokane WA",
+            "title": "ETL Developer",
+            "startDate": "2013-08-21"
+        },
+        {
+            "employer": "Xerox",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Software Engineer",
+            "startDate": "2013-08-21"
+        },
+        {
+            "employer": "Epic Systems Corporation",
+            "degree": "ANSA-BS",
+            "city": "Madison WI",
+            "title": "Systems Administrator",
+            "startDate": "2013-08-10"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "Mt. View CA",
+            "title": "IT Resident in the IT Residency Program",
+            "startDate": "2013-08-10"
+        },
+        {
+            "employer": "Federal Reserve Board",
+            "degree": "INFOTEC-BS",
+            "city": "Washington DC",
+            "title": "System Administrator",
+            "startDate": "2013-08-10"
+        },
+        {
+            "employer": "Integrated Systems",
+            "degree": "ANSA-BS",
+            "city": "Victor NY",
+            "title": "Network Infrastructure Specialist",
+            "startDate": "2013-08-10"
+        },
+        {
+            "employer": "ZTE Kazakhstan",
+            "degree": "INFOTEC-MS",
+            "city": "Almaty, Kazakhstan ",
+            "title": "Network Nngineer",
+            "startDate": "2013-07-31"
+        },
+        {
+            "employer": "Harris RF Communications",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Network Engineer",
+            "startDate": "2013-07-30"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "ANSA-BS",
+            "city": "Columbus OH",
+            "title": "Infrastructure Engineer",
+            "startDate": "2013-07-09"
+        },
+        {
+            "employer": "Frontier Communications",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "NOC Specialist III",
+            "startDate": "2013-07-09"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "title": "IT Analyst",
+            "startDate": "2013-07-01"
+        },
+        {
+            "employer": "Interactive Intelligence",
+            "degree": "ANSA-BS",
+            "city": "Indianapolis IN",
+            "title": "Functionality Testing Engineer",
+            "startDate": "2013-06-20"
+        },
+        {
+            "employer": "Brand Logic",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2013-06-20"
+        },
+        {
+            "employer": "Driver Digital",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Web Developer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "title": "IT Analyst",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Portsmouth NH",
+            "title": "IT Analyst",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Bose Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Framingham MA",
+            "title": "PTS Wireless Specialist",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Oracle",
+            "degree": "INFOTEC-BS",
+            "city": "Reston VA",
+            "title": "Database Consultant",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Phu Concepts",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "LinkedIn",
+            "degree": "INFOTEC-BS",
+            "city": "New York City NY",
+            "title": "Java Developer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "ING",
+            "degree": "INFOTEC-BS",
+            "city": "Philadelphia PA",
+            "title": "Associate Software Development Engineer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Nanoark",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Software Engineer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Catalyst Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "UX Developer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Frontier Communications",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Programmer/Analyst",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "ITS support",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "MaxBurst",
+            "degree": "INFOTEC-BS",
+            "city": "Amityville NY",
+            "title": "Web Developer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Brand Networks",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "QA Analyst",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Time Warner Cable",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "LAN Administrator",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Veson Nautical",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "Technical Solutions Engineer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Unisys",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Developer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "Xerox",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Support",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "5LINX Enterprises Inc",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Systems Engineer",
+            "startDate": "2013-06-19"
+        },
+        {
+            "employer": "SUNY Brockport",
+            "degree": "INFOTEC-BS",
+            "city": "Brockport NY",
+            "title": "Specialized Computing Technician",
+            "startDate": "2013-06-18"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Business Systems Analyst",
+            "startDate": "2013-06-18"
+        },
+        {
+            "employer": "2ndNature Studio",
+            "degree": "INFOTEC-BS",
+            "city": "Syracuse NY",
+            "title": "PHP Developer",
+            "startDate": "2013-06-18"
+        },
+        {
+            "employer": "Carestream Health Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Patent legal IT",
+            "startDate": "2013-06-18"
+        },
+        {
+            "employer": "Monroe County Water Authority",
+            "degree": "ANSA-BS",
+            "city": "rochester NY",
+            "title": "Microcomputer Maintenance Technician",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Acquia",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Cloud Systems Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "title": "IT Analyst",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Indeed Inc.",
+            "degree": "ANSA-BS",
+            "city": "Austin TX",
+            "title": "Junior System Administrator",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Xerox Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "IT Risk Analyst",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Susquehanna International Group",
+            "degree": "ANSA-BS",
+            "city": "Bala Cynwyd PA",
+            "title": "Network Associate",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Collaboration Technologies Hardware Specialist",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Susquehanna International Group",
+            "degree": "ANSA-BS",
+            "city": "Bala Cynwyd PA",
+            "title": "Network Associate",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Raleigh NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "RSA The Security Division of EMC",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "title": "System Administrator",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Indeed Inc.",
+            "degree": "ANSA-BS",
+            "city": "Austin NY",
+            "title": "Database Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Symantec Corporation",
+            "degree": "NETSYS-MS",
+            "city": "Alexandria VA",
+            "title": "Firewall Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Lenel Systems",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Technical Systems Application Manager",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Meraki Inc",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "title": "Support Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "USAA",
+            "degree": "ANSA-BS",
+            "city": "San Antonio TX",
+            "title": "Computer Systems Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Symplicity",
+            "degree": "ANSA-BS",
+            "city": "Arlington VA",
+            "title": "System Administrator",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Morrisville NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "CISCO MERAKI",
+            "degree": "ANSA-BS",
+            "city": "SAN FRANCISCO CA",
+            "title": "Technical Support Engineer CLOUD NETWORKING GROUP",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "PC System Administrator",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Harris Corporation",
+            "degree": "ANSA-BS",
+            "city": "Melbourne FL",
+            "title": "Network Planning Engineer",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "ANSA-BS",
+            "city": "New York City NY",
+            "title": "Technology Analyst",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Wegmans Food Markets",
+            "degree": "ANSA-BS",
+            "city": "Webster NY",
+            "title": "Store Systems Support Technician",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "VP Supply Corp",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Assistant System Administrator",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "INFOTEC-MS",
+            "city": "San Francisco CA",
+            "title": "IT Surgeon",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Adjunct Faculty",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Johnson & Johnson",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Engineering Tech",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Bangkok University",
+            "degree": "INFOTEC-MS",
+            "city": "Bangkok AL",
+            "title": "Instructor",
+            "startDate": "2013-06-17"
+        },
+        {
+            "employer": "Consilium 1",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Technical Consultant",
+            "startDate": "2013-06-11"
+        },
+        {
+            "employer": "United Technologies Corp.",
+            "degree": "INFOTEC-BS",
+            "city": "Hartford CT",
+            "title": "Information Technology Leadership Program Associat",
+            "startDate": "2013-06-11"
+        },
+        {
+            "employer": "Interactive Intelligence",
+            "degree": "INFOTEC-BS",
+            "city": "Indianapolis IN",
+            "title": "Software Automation Test Engineer",
+            "startDate": "2013-06-11"
+        },
+        {
+            "employer": "Data Tactics Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "McLean VA",
+            "title": "Systems Engineer",
+            "startDate": "2013-06-11"
+        },
+        {
+            "employer": "URMC",
+            "degree": "MEDINFO-MS",
+            "city": "Rochester NY",
+            "title": "developer",
+            "startDate": "2013-06-11"
+        },
+        {
+            "employer": "Quality Vision International",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2013-06-11"
+        },
+        {
+            "employer": "Next Jump",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "title": "Systems Administrator",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Morrisvile NC",
+            "title": "ENGINEER.II.CUSTOMER SUPPORT.CUSTOMER ADVOCACY",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Portsmouth NH",
+            "title": "IT Analyst",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "SevOne",
+            "degree": "ANSA-BS",
+            "city": "Newark DE",
+            "title": "product support engineer",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "Hudl",
+            "degree": "ANSA-BS",
+            "city": "Lincoln NE",
+            "title": "Student Systems Administrator",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "Defense Intelligence Agency",
+            "degree": "INFOTEC-BS",
+            "city": "Washington DC",
+            "title": "IT Developer",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "LinkedIn",
+            "degree": "ANSA-BS",
+            "city": "Mountain View CA",
+            "title": "Systems Administrator",
+            "startDate": "2013-06-10"
+        },
+        {
+            "employer": "US Air Force",
+            "degree": "ANSA-BS",
+            "city": "Belleville IL",
+            "title": "Officer",
+            "startDate": "2013-05-17"
+        },
+        {
+            "employer": "Interactive Intelligence",
+            "degree": "ANSA-BS",
+            "city": "Indianapolis IN",
+            "title": "Functionality Test Engineer",
+            "startDate": "2013-04-01"
+        },
+        {
+            "employer": "Brand Networks",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Systems Architect",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "VoicePort",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Software Developer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "NimbleUser",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "title": "Technology Support Analyst",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Lake Health",
+            "degree": "INFOTEC-BS",
+            "city": "Concord OH",
+            "title": "IT Developer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Brinkman Intl",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Support",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "SUNY Downstate Medical Center",
+            "degree": "MEDINFO-BS",
+            "city": "Staten Island NY",
+            "title": "Technical Support at CAMPUS Education",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Nothnagle Realty",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Database Developer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Modis",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Desktop Support Specialist",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Stats LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Oak Lawn IL",
+            "title": "Software Developer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Campus Labs",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "title": "Software Developer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Yodle",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Front End Web Developer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Systems Administrator / Assistant Engineer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "ANSA-BS",
+            "city": "Raleigh-Durham NC",
+            "title": "Associate Software Engineer",
+            "startDate": "2013-03-18"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-MS",
+            "city": "Dallas/Ft Worth TX",
+            "title": "Software Developer",
+            "startDate": "2013-03-15"
+        },
+        {
+            "employer": "Two95 International INC",
+            "degree": "INFOTEC-MS",
+            "city": "Voorhees NJ",
+            "title": "Developer",
+            "startDate": "2013-03-15"
+        },
+        {
+            "employer": "Connected Sports Ventures",
+            "degree": "INFOTEC-MS",
+            "city": "Cambridge MA",
+            "title": "Software Developer",
+            "startDate": "2013-03-15"
+        },
+        {
+            "employer": "Amazon",
+            "degree": "INFOTEC-MS",
+            "city": "Seattle WA",
+            "title": "Software Development Engineer",
+            "startDate": "2013-03-15"
+        },
+        {
+            "employer": "DISA",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "Knowledge Engineer",
+            "startDate": "2013-03-14"
+        },
+        {
+            "employer": "Soleo Communications",
+            "degree": "ANSA-BS",
+            "city": "Fairport NY",
+            "title": "IT Systems Administrator",
+            "startDate": "2013-02-11"
+        },
+        {
+            "employer": "Hewlett-Packard Company",
+            "degree": "INFOTEC-MS",
+            "city": "Palo Alto CA",
+            "title": "Mathematical/Statistical Analyst",
+            "startDate": "2013-01-18"
+        },
+        {
+            "employer": "Lockheed Martin",
+            "degree": "ANSA-BS",
+            "city": "Richland WA",
+            "title": "Network Admin I",
+            "startDate": "2013-01-15"
+        },
+        {
+            "employer": "Innovative Solutions",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "PC Technician",
+            "startDate": "2013-01-05"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "IT Analyst",
+            "startDate": "2013-01-04"
+        },
+        {
+            "employer": "REI Systems Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Herndon VA",
+            "title": "Applications Programmer",
+            "startDate": "2013-01-02"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2012-12-19"
+        },
+        {
+            "employer": "Garden City Group",
+            "degree": "ANSA-BS",
+            "city": "Success NY",
+            "title": "Data Control Administrator",
+            "startDate": "2012-12-19"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "NETSYS-MS",
+            "city": "Portsmouth NH",
+            "title": "IT Analyst",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "System Administrator",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Thomson-Reuters",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Quality Assurance Engineer",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Majmmah University",
+            "degree": "NETSYS-MS",
+            "city": "Majmmah, Saudi Arabia ",
+            "title": "Vice Dean of IT for E-services",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "EMC Corp",
+            "degree": "NETSYS-MS",
+            "city": "Washington DC",
+            "title": "Cloud Service Reliability Engineer",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Gemprint Corp.",
+            "degree": "NETSYS-MS",
+            "city": "New York City NY",
+            "title": "Software Engineer",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Capital Pension Fund",
+            "degree": "INFOTEC-MS",
+            "city": "Almaty, Kazakhstan ",
+            "title": "Senior IT",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Energy Curtailment Specialists",
+            "degree": "INFOTEC-MS",
+            "city": "Buffalo NY",
+            "title": "Software Engineer Developer",
+            "startDate": "2012-12-12"
+        },
+        {
+            "employer": "Spaulding Rehabilitation Hospital",
+            "degree": "INFOTEC-BS",
+            "city": "Cambridge MA",
+            "title": "Information Services Technician",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "INFOTEC-BS",
+            "city": "San Antonio TX",
+            "title": "CALO Lab Technician",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "MySpiderweb",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Founder/COO",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Microsoft",
+            "degree": "INFOTEC-BS",
+            "city": "Redmond WA",
+            "title": "Program Manager",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Dixon Schwabl",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "title": "Interactive Developer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Technology Analyst",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Tadashi Shoji",
+            "degree": "INFOTEC-BS",
+            "city": "Vernon CA",
+            "title": "Software Engineer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Self-Employed",
+            "degree": "INFOTEC-BS",
+            "city": "Hyattsville MD",
+            "title": "Computer Technician",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Microsoft",
+            "degree": "INFOTEC-BS",
+            "city": "Seattle WA",
+            "title": "Program Manager",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Infobase Learning",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": ".NET Web Developer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Storm Frog",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "title": "Scriptzilla",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Paperless Post",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Software Developer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Arbella Insurance",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "Developer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "The May Institute",
+            "degree": "INFOTEC-BS",
+            "city": "Randolph MA",
+            "title": "Educational Technologist",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Epic Systems Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Madison WI",
+            "title": "Technical Services",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Meditech",
+            "degree": "MEDINFO-BS",
+            "city": "Boston MA",
+            "title": "Developer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "ICS Telecom",
+            "degree": "ANSA-BS",
+            "city": "Victor NY",
+            "title": "IT Analyst",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Rolls-Royce",
+            "degree": "ANSA-BS",
+            "city": "williamson NY",
+            "title": "PC and User Support Specialist",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "APX Labs",
+            "degree": "ANSA-BS",
+            "city": "Washington DC",
+            "title": "Associate Systems Engineer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Bridgewater Associates",
+            "degree": "ANSA-BS",
+            "city": "Norwalk CT",
+            "title": "IT Critical Infrastructure Support Associate",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "RTP NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "The Children's Hospital of Philadelphia",
+            "degree": "MEDINFO-BS",
+            "city": "Philadelphia PA",
+            "title": "Information Analyst",
+            "startDate": "2012-12-10"
+        },
+        {
+            "employer": "Univ at Buffalo",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "title": "Support",
+            "startDate": "2012-10-16"
+        },
+        {
+            "employer": "Earthlink Cloud",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Networking Support Engineer",
+            "startDate": "2012-09-12"
+        },
+        {
+            "employer": "Zeller Corp",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Network Administrator and IT Support",
+            "startDate": "2012-09-11"
+        },
+        {
+            "employer": "Cornell University",
+            "degree": "INFOTEC-BS",
+            "city": "Ithaca NY",
+            "title": "Applications Programmer II",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "U.S. Department of Homeland Security",
+            "degree": "INFOTEC-BS",
+            "city": "Washington DC",
+            "title": "Enterprise Application Administrator",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Special Metals",
+            "degree": "INFOTEC-BS",
+            "city": "Utica NY",
+            "title": "Programmer",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Behance Inc",
+            "degree": "INFOTEC-BS",
+            "city": "New York City NY",
+            "title": "Developer",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "TigerSafe",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Project Lead",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "APD Engineering",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "title": "Jr. Developer",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "FAST Enterprises",
+            "degree": "INFOTEC-BS",
+            "city": "Kansas City MO",
+            "title": "Software Implementation Consultant",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Cerner Corporation",
+            "degree": "INFOTEC-MS",
+            "city": "Kansas City MO",
+            "title": "Velocity Software Engineer",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Praxair",
+            "degree": "INFOTEC-BS",
+            "city": "New York City NY",
+            "title": "It Intern",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Wells Fargo",
+            "degree": "NETSYS-MS",
+            "city": "Charlotte NC",
+            "title": "Corporate Systems Integrator",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Rational Retenation",
+            "degree": "INFOTEC-MS",
+            "city": "Albany NY",
+            "title": "Software Developer",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Pace Communications",
+            "degree": "INFOTEC-MS",
+            "city": "Greensboro NC",
+            "title": "Front End Developer",
+            "startDate": "2012-09-10"
+        },
+        {
+            "employer": "Cornerstone Healthcare Group",
+            "degree": "MEDINFO-BS",
+            "city": "Dallas TX",
+            "title": "Data Analyst",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "Wilmorite Management Group",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Network Support Assistant",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "Microsoft",
+            "degree": "ANSA-BS",
+            "city": "Redmond WA",
+            "title": "Service Engineer",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "Xerox",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "IT Service Delivery Manager",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "URMC",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "title": "Full time",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "Cisco Systems Inc.",
+            "degree": "NETSYS-MS",
+            "city": "San Jose CA",
+            "title": "Software Engineer Grade 3",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "Integratouch",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Application Operation Technician",
+            "startDate": "2012-09-07"
+        },
+        {
+            "employer": "FactSet Research Systems",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Unix Systems Engineer",
+            "startDate": "2012-06-29"
+        },
+        {
+            "employer": "Studio LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "title": "Web Developer",
+            "startDate": "2012-06-29"
+        },
+        {
+            "employer": "2ndNature LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Syracuse NY",
+            "title": "Web Developer",
+            "startDate": "2012-06-29"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Assistant",
+            "startDate": "2012-06-29"
+        },
+        {
+            "employer": "CM Productions LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Front End Web Developer",
+            "startDate": "2012-06-21"
+        },
+        {
+            "employer": "Credit Suisse",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Technical Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Frontier Communications",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Malware / Chat Online Support",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "IBM",
+            "degree": "INFOTEC-BS",
+            "city": "Philadelphia PA",
+            "title": "Consultant",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Gripmedia",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Smithfield RI",
+            "title": "Software Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Durham NC",
+            "title": "Associate Software Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "TriTek Solutions",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "Associate",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "NetApp",
+            "degree": "INFOTEC-BS",
+            "city": "Raleigh NC",
+            "title": "QA SAN Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Achievement First",
+            "degree": "INFOTEC-BS",
+            "city": "Brooklyn NY",
+            "title": "Assistant Director",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "title": "Software Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Drinker & Biddle",
+            "degree": "INFOTEC-BS",
+            "city": "Philadelphia PA",
+            "title": "Service Desk Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Raleigh NC",
+            "title": "Associate software developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "KIPP NYC",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Help Desk Technician",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Oracle",
+            "degree": "INFOTEC-BS",
+            "city": "Reston NY",
+            "title": "Associate Consultant",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "PetSmart",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Pet Product Manager",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "NimbleUser",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "title": "Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Computer SOS",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "title": "Software Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Promantus",
+            "degree": "INFOTEC-BS",
+            "city": "Cary NC",
+            "title": "Software Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Leonard's Expree",
+            "degree": "INFOTEC-BS",
+            "city": "Canadaigua NY",
+            "title": "IT",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "NimbleUser",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "QuoJax Corp",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "PHP Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Algonquin Studios",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "title": "Associate Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "iCardiac Technologies",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Associate",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "ABC Electronics",
+            "degree": "INFOTEC-BS",
+            "city": "E Rochester NY",
+            "title": "developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Paychex",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Software Developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "INFOTEC-BS",
+            "city": "NYC NY",
+            "title": "Business Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Morrisville NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "ANSA-BS",
+            "city": "Manhattan NY",
+            "title": "Technology Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Credit Suisse",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "Technical Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Bailey Communications",
+            "degree": "ANSA-BS",
+            "city": "North Ridgeville OH",
+            "title": "Network Technician",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Research Triangle Park NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Morrisville NC",
+            "title": "Network Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Innovative Solutions",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Desktop Support Technician",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Portsmouth NH",
+            "title": "Network Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Hitachi Data Systems",
+            "degree": "ANSA-BS",
+            "city": "Belmont MA",
+            "title": "Software Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "Technology Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "ANSA-BS",
+            "city": "Westlake TX",
+            "title": "Associate Systems Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "MAC Source Communications",
+            "degree": "ANSA-BS",
+            "city": "Buffalo NY",
+            "title": "Systems Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Research Triangle Park NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "UniTek Global Services",
+            "degree": "ANSA-BS",
+            "city": "Philadelphia PA",
+            "title": "System Administrator",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Meraki",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "title": "Technical Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Next Jump",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "System Administrator Network Operations Center",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "San Jose CA",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Research Triangle Park NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Box",
+            "degree": "ANSA-BS",
+            "city": "Palo Alto CA",
+            "title": "developer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Finger Lakes Technologies Group",
+            "degree": "ANSA-BS",
+            "city": "North Tonawanda NY",
+            "title": "Field Network Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Brite Computers",
+            "degree": "ANSA-BS",
+            "city": "ROchester NY",
+            "title": "Desktop IMAC Technician",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems Inc.",
+            "degree": "ANSA-BS",
+            "city": "San Jose CA",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Research Triangle Park NC",
+            "title": "Associate Network Consulting Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "AAFES",
+            "degree": "ANSA-BS",
+            "city": "Palmyra NJ",
+            "title": "Computer Operator",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "title": "FT IT Analyst-Software Development/Information Sys",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "EMSA Consulting",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Software/IT Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Meraki",
+            "degree": "ANSA-BS",
+            "city": "San Diego CA",
+            "title": "Technical Support",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Box",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "title": "Site Reliability Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Finger Lakes Technologies Group",
+            "degree": "ANSA-BS",
+            "city": "Victor NY",
+            "title": "Field Network Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Microsoft",
+            "degree": "ANSA-BS",
+            "city": "Reston VA",
+            "title": "Associate Consultant",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Liberty Mutual",
+            "degree": "ANSA-BS",
+            "city": "Dover NH",
+            "title": "IT Analyst",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Boxborough MA",
+            "title": "Customer Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Meraki",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "title": "Inside Technical Support Engineer",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "USAA",
+            "degree": "ANSA-BS",
+            "city": "San Antonio TX",
+            "title": "Computer Systems Engineer III",
+            "startDate": "2012-06-13"
+        },
+        {
+            "employer": "Empathy Lab",
+            "degree": "INFOTEC-MS",
+            "city": "Conshohocken PA",
+            "title": "Information Architect",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Argus Information and Advisory Services",
+            "degree": "INFOTEC-MS",
+            "city": "New York NY",
+            "title": "developer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Information Technology Analyst",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Aurora Consulting Group",
+            "degree": "INFOTEC-MS",
+            "city": "Buffalo NY",
+            "title": "Developer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Paychex",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Developer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Alstom Transport",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Solution Manager",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "T-Mark International",
+            "degree": "INFOTEC-MS",
+            "city": "Buffalo NY",
+            "title": "Web Developer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Harris Corporation",
+            "degree": "INFOTEC-MS",
+            "city": "Melbourne FL",
+            "title": "Engineer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Cerner Corporation",
+            "degree": "INFOTEC-MS",
+            "city": "Kansas City MI",
+            "title": "Engineer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Pearl.com LLC",
+            "degree": "INFOTEC-MS",
+            "city": "San Francisco CA",
+            "title": "Software Engineer",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "University of Rochester",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Desktop Administrator",
+            "startDate": "2012-06-12"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Application Developer/ Researcher",
+            "startDate": "2012-06-08"
+        },
+        {
+            "employer": "Justin W. Boldenow",
+            "degree": "INFOTEC-BS",
+            "city": "Pensacola FL",
+            "title": "Combat Systems Officer",
+            "startDate": "2012-05-25"
+        },
+        {
+            "employer": "US Army",
+            "degree": "INFOTEC-BS",
+            "city": "Raleigh NC",
+            "title": "2nd Lieutenant",
+            "startDate": "2012-05-25"
+        },
+        {
+            "employer": "Progressive Expert Consulting",
+            "degree": "ANSA-BS",
+            "city": "Syracuse NY",
+            "title": "Consultant",
+            "startDate": "2012-04-16"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Customer Advocacy Lab Operator",
+            "startDate": "2012-04-16"
+        },
+        {
+            "employer": "City of Rochester, Information Technolog",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Client Support Analyst",
+            "startDate": "2012-04-16"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Technology Analyst",
+            "startDate": "2012-04-13"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "title": "Java Developer",
+            "startDate": "2012-04-13"
+        },
+        {
+            "employer": "Booz Allen Hamilton",
+            "degree": "INFOTEC-BS",
+            "city": "McLean VA",
+            "title": "Consultant",
+            "startDate": "2012-04-13"
+        },
+        {
+            "employer": "The MITRE Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Bedford MA",
+            "title": "Network Engineer",
+            "startDate": "2012-04-13"
+        },
+        {
+            "employer": "Patch.com",
+            "degree": "INFOTEC-BS",
+            "city": "Bronx NY",
+            "title": "QA Analyst",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "SAP",
+            "degree": "INFOTEC-MS",
+            "city": "Newton Square PA",
+            "title": "Solution Developer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Emprise Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Mystic CT",
+            "title": "Web Developer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Richardson TX",
+            "title": "CALO Lab Advocate",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Raleigh NC",
+            "title": "Network Engineer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Computer Aid, Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Technology Associate",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Veramark",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Network Administrator",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "Mountain View CA",
+            "title": "Internal Technology Resident",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "MAC Source Communications",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Systems Engineer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "VanGuard",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Software Eng",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Xerox",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Engineer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Windstream Communications",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Database Administrator",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "Technology Analyst: Infrastructure Engineer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "RIT Department of Alumni Relations",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Programmer Analyst",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Alit",
+            "degree": "INFOTEC-MS",
+            "city": "Astana, Kazakhstan ",
+            "title": "Web Developer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Progressive Insurance",
+            "degree": "NETSYS-MS",
+            "city": "Cleveland/Akron OH",
+            "title": "IT Operations Analyst Assoc.",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Kriterium",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "developer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "NYC",
+            "degree": "MEDINFO-BS",
+            "city": "New York NY",
+            "title": "Full time",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "UnitedHealth Group (Optuminsight)",
+            "degree": "NETSYS-MS",
+            "city": "Spring Valley CA",
+            "title": "Perl Developer",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "UNIVERSITY OF ROCHESTER",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "title": "ft",
+            "startDate": "2012-03-26"
+        },
+        {
+            "employer": "Box",
+            "degree": "ANSA-BS",
+            "city": "Palo Alto CA",
+            "title": "Security Analyst",
+            "startDate": "2012-03-06"
+        },
+        {
+            "employer": "IBM",
+            "degree": "MEDINFO-BS",
+            "city": "Boston MA",
+            "title": "Software Developer",
+            "startDate": "2012-03-05"
+        },
+        {
+            "employer": "Monroe Ambulance",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "title": "Emergency Medical Technician",
+            "startDate": "2012-01-03"
+        },
+        {
+            "employer": "Northeast Sales Associates",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Website Designer and Developer",
+            "startDate": "2012-01-03"
+        },
+        {
+            "employer": "Quadgen Wireless",
+            "degree": "NETSYS-MS",
+            "city": "King of Prussia PA",
+            "title": "developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Direwolf Digital",
+            "degree": "MEDINFO-BS",
+            "city": "Denver CO",
+            "title": "Junior Game Programmer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Pittsburgh Glassworks",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsburgh PA",
+            "title": "Web Developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "innovative solutions",
+            "degree": "INFOTEC-BS",
+            "city": "rochester NY",
+            "title": "PC Technician",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Spectracom",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Network Administrator",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Kforce Inc.",
+            "degree": "INFOTEC-MS",
+            "city": "Tampa FL",
+            "title": "Programmer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Ernst & Young",
+            "degree": "INFOTEC-BS",
+            "city": "Charlotte NC",
+            "title": "Technology Advisory Program",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "NimbleUser",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "title": "Developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Concept",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Technical Consultant",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Ubisoft",
+            "degree": "INFOTEC-BS",
+            "city": "San Francisco CA",
+            "title": "Webmaster",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "MG Lomb Advertising Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Fairport NY",
+            "title": "Web Developer/Programmer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Brite Computers",
+            "degree": "INFOTEC-BS",
+            "city": "Victor NY",
+            "title": "IT Desktop Services and Support",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Mycroft Inc.",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "Systems Engineer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Department of Defense",
+            "degree": "ANSA-BS",
+            "city": "Fort Meade MD",
+            "title": "Telecommunications Engineer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Atomic Design",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "JSC Bailanys-NAK",
+            "degree": "INFOTEC-MS",
+            "city": "Astana, Kazakhstan ",
+            "title": "Chief of Astana service-center",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "De Lage Landen",
+            "degree": "INFOTEC-MS",
+            "city": "Philadelphia PA",
+            "title": "Service Delivery Consultant-Server and Storage",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Podio",
+            "degree": "INFOTEC-MS",
+            "city": "Fort Lauderdale FL",
+            "title": "Developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Kforce Inc.",
+            "degree": "INFOTEC-MS",
+            "city": "Tamp FL",
+            "title": "SharePoint Developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Datto, Inc",
+            "degree": "ANSA-BS",
+            "city": "Norwalk, CT CT",
+            "title": "Network and System Administrator",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Phu Yum Yum Design and Development",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Owner",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Best Buy",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Inventory Specialist",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Northrop Grumman Corporation",
+            "degree": "ANSA-BS",
+            "city": "Baltimore MD",
+            "title": "Computer Systems Architect",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "EMC Corp",
+            "degree": "ANSA-BS",
+            "city": "Hopkinton MA",
+            "title": "Network Engineer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "CSEA Employee Benefit Fund",
+            "degree": "INFOTEC-BS",
+            "city": "Albany NY",
+            "title": "Systems Engineer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "PetFlow",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "UI Web Developer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Global Crossing",
+            "degree": "ANSA-BS",
+            "city": "Buffalo NY",
+            "title": "Security Architect Intern",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Plexxi, Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "Software Engineer",
+            "startDate": "2011-12-12"
+        },
+        {
+            "employer": "Aquent",
+            "degree": "INFOTEC-BS",
+            "city": "Denver CO",
+            "title": "Web Developer",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Next Century Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Columbia MD",
+            "title": "System Administrator",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "Mountain View CA",
+            "title": "ITRP",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "100% Pure Cosmetics",
+            "degree": "INFOTEC-MS",
+            "city": "San Jose CA",
+            "title": "Web Application Developer",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Carestream Health Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "SAP CRM Analyst",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "County of Erie PA",
+            "degree": "INFOTEC-MS",
+            "city": "Erir PA",
+            "title": "developer",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Yaskawa America Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Chicago IL",
+            "title": "Java Developer",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "MG Lomb Advertising Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Fairport NY",
+            "title": "Web Developer/Programmer",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "The Rochester Group",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Senior Web Developer",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Kayex: a Division of SPX",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "System Support Specialist",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "iVEDiX Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsford NY",
+            "title": "Solutions Architect",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Citi",
+            "degree": "NETSYS-MS",
+            "city": "Buffalo NY",
+            "title": "Quatitative Analyst (System Engineer)",
+            "startDate": "2011-09-12"
+        },
+        {
+            "employer": "Sorenson Communications",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Technical Support Engineering I",
+            "startDate": "2011-09-08"
+        },
+        {
+            "employer": "Palladian Health",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "ITS Help Desk",
+            "startDate": "2011-08-20"
+        },
+        {
+            "employer": "Onondaga County IT Department",
+            "degree": "ANSA-BS",
+            "city": "Syracuse NY",
+            "title": "Systems Administrator",
+            "startDate": "2011-06-20"
+        },
+        {
+            "employer": "Dentsu",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Junior Systems Administrator",
+            "startDate": "2011-06-20"
+        },
+        {
+            "employer": "Dell SecureWorks",
+            "degree": "NETSYS-MS",
+            "city": "Atlanta GA",
+            "title": "Network Security Advisor",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "NETSYS-MS",
+            "city": "Morrisville NC",
+            "title": "Associate Network Consulting Engineer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Paychex",
+            "degree": "MEDINFO-BS",
+            "city": "Rochester NY",
+            "title": "developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Rochester Institute of Technology",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Sr Manager Academic Tech and Media Services",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "SIGMA Marketing Group",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Sr Marketing Analyst",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "L3 Global Communications",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Database Administrator",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Argus Information and Advisory Services",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Analyst",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Alcatel-Lucent",
+            "degree": "INFOTEC-MS",
+            "city": "Austin TX",
+            "title": "QA Engineer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "Associate Software Engineer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Z Two Technolgies",
+            "degree": "INFOTEC-BS",
+            "city": "Shrewsbury NJ",
+            "title": "ColdFusion programmer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "D4 LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Programmer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Avon Old Farms School",
+            "degree": "INFOTEC-BS",
+            "city": "Avon CT",
+            "title": "Assistant to the Director of Information Technolog",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "NGP Van",
+            "degree": "INFOTEC-BS",
+            "city": "Arlington VA",
+            "title": "System Administrator",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Raven Software",
+            "degree": "INFOTEC-BS",
+            "city": "Middleton WI",
+            "title": "Level Design/Builder",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Federal Reserve Board",
+            "degree": "INFOTEC-BS",
+            "city": "Capitol Heights MD",
+            "title": "Communications Analyst",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Federal Reserve Board",
+            "degree": "INFOTEC-BS",
+            "city": "Washington DC",
+            "title": "Computer Application Developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Microsoft Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Charlotte NC",
+            "title": "Business Analyst",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Becton Dickinson (BD)",
+            "degree": "INFOTEC-BS",
+            "city": "Franklin Lakes NJ",
+            "title": "ITLP Associate",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Prudential Financial",
+            "degree": "INFOTEC-BS",
+            "city": "Newark NJ",
+            "title": "Temporary Employment",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "McGladrey",
+            "degree": "INFOTEC-BS",
+            "city": "Charlotte NC",
+            "title": "Computer Security Auditor Associate",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "NanoArk",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Software Engineer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Fidelity Investments",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Student Voice",
+            "degree": "INFOTEC-BS",
+            "city": "Buffalo NY",
+            "title": "Developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "5LINX Enterprises Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Tier 1 Technical Support",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Schaefer Systems International",
+            "degree": "INFOTEC-BS",
+            "city": "Windsor CT",
+            "title": "Software Support Engineer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "RIT Libraries",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Digital Assets",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Relevance Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Durham NC",
+            "title": "Programmre",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Self-Employed",
+            "degree": "INFOTEC-BS",
+            "city": "Boston MA",
+            "title": "Independent IT Services Consultant and Contractor",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "EMC Corp",
+            "degree": "INFOTEC-BS",
+            "city": "SAN FRANCISCO CA",
+            "title": "CLOUD COMPUTING",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Mitre Corporation",
+            "degree": "INFOTEC-BS",
+            "city": "Pittsburgh PA",
+            "title": "Information Security Engineer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Unisys",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Level 1 Agent",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Distributed Support Service",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "GMC Lab Manager",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "CMP Productions",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Web Developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "NASA - Glenn Research Center",
+            "degree": "INFOTEC-BS",
+            "city": "Cleveland OH",
+            "title": "Web App Developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Medical Liability Insurance Company",
+            "degree": "INFOTEC-BS",
+            "city": "Latham NY",
+            "title": "Database Administrator 1",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Prudential Financial",
+            "degree": "INFOTEC-BS",
+            "city": "Newark NJ",
+            "title": "developer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "AgileBits",
+            "degree": "INFOTEC-BS",
+            "city": "Toronto, Canada ",
+            "title": "Positive Experience Architect",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "AdTrak360",
+            "degree": "INFOTEC-BS",
+            "city": "Williamsport PA",
+            "title": "UI Programmer",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Goldman Sachs",
+            "degree": "INFOTEC-MS",
+            "city": "Jersy City NJ",
+            "title": "Technology Analyst",
+            "startDate": "2011-06-13"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "Mountain View CA",
+            "title": "Internal Technology Residency Program",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Red Stapler Software",
+            "degree": "ANSA-BS",
+            "city": "Webster NY",
+            "title": "C# Web Developer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Mindspark Interactive Networks Inc",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "Unix Operator",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Advance 2000",
+            "degree": "ANSA-BS",
+            "city": "Williamsville NY",
+            "title": "developer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Aedis IT, LLC",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Information Security Analyst",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "",
+            "degree": "ANSA-BS",
+            "city": "Hartford CT",
+            "title": "Information Security Engineer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "McDonald's Corporation",
+            "degree": "ANSA-BS",
+            "city": "Hubbardsville NY",
+            "title": "Swing Manager",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "US Army Research Laboratory",
+            "degree": "ANSA-BS",
+            "city": "Washington DC",
+            "title": "Network Engineer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "JPMorgan Chase & Co.",
+            "degree": "ANSA-BS",
+            "city": "New York NY",
+            "title": "developer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "University of Rochester Medical Center",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "CAS Technician",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Box",
+            "degree": "ANSA-BS",
+            "city": "Palo Alto CA",
+            "title": "developer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Pitney Bowes, Inc.",
+            "degree": "ANSA-BS",
+            "city": "Stamford CT",
+            "title": "developer",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "Rackspace Managed Hosting",
+            "degree": "ANSA-BS",
+            "city": "San Antonio TX",
+            "title": "Linux Systems Administrator I",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "RSVP Business Systems Inc",
+            "degree": "ANSA-BS",
+            "city": "East Rochester NY",
+            "title": "System Administrator",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "The Dow Chemical Company",
+            "degree": "INFOTEC-BS",
+            "city": "Midland MI",
+            "title": "Information System Specialist",
+            "startDate": "2011-06-10"
+        },
+        {
+            "employer": "DebtorWise Foundation",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Creative Director",
+            "startDate": "2011-03-23"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Boxborough MA",
+            "title": "III Engineer, Customer Advocacy",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "title": "IT Resident",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Paychex",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Windows Server Engineer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Intel Corp",
+            "degree": "ANSA-BS",
+            "city": "Phoenix AZ",
+            "title": "developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Glo",
+            "degree": "ANSA-BS",
+            "city": "Columbia SC",
+            "title": "developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "LMT Technology Solutions",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Support Engineer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Single Digits Inc",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Tier 1 Technician",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Raleigh-Durham NC",
+            "title": "CALO Networking Support",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "VA MEDICAL CENTER",
+            "degree": "NETSYS-MS",
+            "city": "INDIANAPOLIS IN",
+            "title": "WAN ADMINISTRATOR",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Rochester City School District",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "Distributed Processes Technician",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Time Inc",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Senior Web Developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Parlec Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "Software Engineer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Carestream Health Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Software Developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "devianART Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Los Angeles CA",
+            "title": "Product Manager",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Pan American Grain",
+            "degree": "INFOTEC-BS",
+            "city": "Puerto Rico ",
+            "title": "Web Master",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "EMC Corp",
+            "degree": "INFOTEC-BS",
+            "city": "Hopkinton MA",
+            "title": "Lab Engineer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Sungard Higher Education",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Help Desk Specialist",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Larson Design Group",
+            "degree": "INFOTEC-BS",
+            "city": "Elmira NY",
+            "title": "Web Designer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Innovative Solutions",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "PC Technician",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "University of Rochester Medical Center",
+            "degree": "INFOTEC-MS",
+            "city": "Rochester NY",
+            "title": "developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Vanguard",
+            "degree": "INFOTEC-BS",
+            "city": "Malvern PA",
+            "title": "developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Kyo Logic LLC",
+            "degree": "INFOTEC-BS",
+            "city": "Westport CT",
+            "title": "Developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "Digitech Computers",
+            "degree": "INFOTEC-BS",
+            "city": "Briarcliff Manor NY",
+            "title": "Software Developer",
+            "startDate": "2011-03-21"
+        },
+        {
+            "employer": "JK Findings Inc",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "Network Administrator",
+            "startDate": "2011-02-28"
+        },
+        {
+            "employer": "HSCB Bank",
+            "degree": "INFOTEC-BS",
+            "city": "Albuquerque NM",
+            "title": "IT Specialist",
+            "startDate": "2011-01-07"
+        },
+        {
+            "employer": "MOOG Inc.",
+            "degree": "INFOTEC-BS",
+            "city": "East Aurora NY",
+            "title": "Junior Programmer/Analyst",
+            "startDate": "2011-01-03"
+        },
+        {
+            "employer": "Schoolwires",
+            "degree": "INFOTEC-BS",
+            "city": "State College Park PA",
+            "title": "Interactive Designer",
+            "startDate": "2010-12-17"
+        },
+        {
+            "employer": "Goodrich",
+            "degree": "ANSA-BS",
+            "city": "Chelmsford MA",
+            "title": "Software Engineer I",
+            "startDate": "2010-12-15"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "INFOTEC-BS",
+            "city": "Raleigh-Durham NC",
+            "title": "Customer Service Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "US Air Force - Scott AFB",
+            "degree": "INFOTEC-BS",
+            "city": "Belleville IL",
+            "title": "IT Specialist",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Sorenson Communications",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Technical Support",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "ANN Inc",
+            "degree": "INFOTEC-BS",
+            "city": "New York NY",
+            "title": "Information Systems Intern",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Excellus Blue Cross/Blue Shield",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Specialist",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Deloitte",
+            "degree": "ANSA-BS",
+            "city": "Glenn Mills PA",
+            "title": "Operations Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "San Francisco CA",
+            "title": "Internal Technology Resident",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Pro-Mold Inc",
+            "degree": "ANSA-BS",
+            "city": "Rocheter NY",
+            "title": "Systems Administrator",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Innovative Solutions",
+            "degree": "ANSA-BS",
+            "city": "Rochester NY",
+            "title": "Network Technician",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Harris Corporation",
+            "degree": "ANSA-BS",
+            "city": "Melbourne FL",
+            "title": "Network Planning Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "MFS Investment Company",
+            "degree": "ANSA-BS",
+            "city": "Boston MA",
+            "title": "Security Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Cisco Systems",
+            "degree": "ANSA-BS",
+            "city": "Morrisville NC",
+            "title": "Customer Support Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Google Inc",
+            "degree": "ANSA-BS",
+            "city": "Mountain View CA",
+            "title": "Internal Technology Resident",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Getinge USA Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Help Desk Technician",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Keuka College",
+            "degree": "INFOTEC-BS",
+            "city": "Keuka Park NY",
+            "title": "IT Support Technician",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Aurora Consulting Group",
+            "degree": "INFOTEC-MS",
+            "city": "BUFFALO NY",
+            "title": "APPLICATION DEVELOPER",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Dorschel Automotive Group",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "IT Specialist",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Intelligent Wave",
+            "degree": "INFOTEC-BS",
+            "city": "Tokyo, Japan ",
+            "title": "developer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "NanoArk Corp",
+            "degree": "INFOTEC-BS",
+            "city": "BOSTON MA",
+            "title": "COMPUTER PROGRAMMER",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Trinity Glass",
+            "degree": "INFOTEC-BS",
+            "city": "Tacoma WA",
+            "title": "developer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "IBM",
+            "degree": "INFOTEC-BS",
+            "city": "Raleigh - Durham NC",
+            "title": "Software Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Total Systems Services Inc",
+            "degree": "INFOTEC-BS",
+            "city": "Rochester NY",
+            "title": "Programmer Analyst",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Lockheed Martin",
+            "degree": "NETSYS-MS",
+            "city": "Owego NY",
+            "title": "developer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Finger Lakes DDSO-NYS OMRDD",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "Information Technology Specialist 3",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Paetec",
+            "degree": "NETSYS-MS",
+            "city": "Rochester NY",
+            "title": "Engr Product Interoperability Test",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Acquia",
+            "degree": "NETSYS-MS",
+            "city": "Boston MA",
+            "title": "Linux Systems Engineer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "FREEDOM PAY",
+            "degree": "INFOTEC-MS",
+            "city": "PHILADELPHIA PA",
+            "title": "VP TECHNOLOGY",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "AutoTask",
+            "degree": "INFOTEC-MS",
+            "city": "ALBANY NY",
+            "title": "SOFTWARE DESIGN ANALYST",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Manning & Napier Advisors Inc",
+            "degree": "INFOTEC-MS",
+            "city": "Fairport NY",
+            "title": "Software Developer",
+            "startDate": "2010-12-13"
+        },
+        {
+            "employer": "Cerner Corporation",
+            "degree": "MEDINFO-BS",
+            "city": "Kansas City MO",
+            "title": "Deployment Salary",
+            "startDate": "2010-11-20"
+        }
+    ]
+}

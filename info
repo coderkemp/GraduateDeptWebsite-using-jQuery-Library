@@ -1,0 +1,50 @@
+- API Used
+    1. ABOUT
+    2. DEGREES
+    3. EMPLOYMENT
+    4. RESEARCH
+    5. FOOTER
+    6. MAPS
+
+
+- Files Invoked
+  1. ISTMain.html is the html file.
+  2. IST.js and Services.js are the two javascript files invoked from ISTMain.html.
+  3. styles.css is the style sheet used
+
+
+- Plugins Used
+1. jQuery UI Plugin
+2. jQuery Datatables Plugin
+3. jQuery Dialog Plugin
+
+
+
+
+- How to use your site
+1. Click on the hosted url path:  https://people.rit.edu/axm3737/Project2/ISTMain.html
+2. You would see the replication of out IST Website.
+3. Click on ‘+’ button, which pops up a dialog box which consists of information about various sections like undergraduate, graduate, employment, faculty profile.
+4. You can see complete co-op and employment table by selecting how many columns you want to view in web page. The page refreshes dynamically.
+5. You can scroll through the Map to see in various places R.I.T students work.
+6. There is also a video embedded in the web page about career fair at R.I.T.
+7. When you click on the faculty, you can see information about them in a dialog box.
+8. If you are a new visitor to the page and want to know about IST, you can fill out a form which checks for validation.
+
+
+- Why you went above and beyond “B” work?
+1. I used some complex plugins like dialog box and have written code in javascript to read the data from the json recursively through iteration of array and than getting the values into the dialog box.
+2.  I tried to make use of REST API put()/post() method to feed in data about you in the professor section to include your details just to implement a extended functionality of storing value into web api.
+       It was a secured access, so was not possible. I even asked you professor after class if you remember. I posted your image in Professor section and have just invoked since I was not able to use the web api for storing data.
+3. Implemented a form for validation with cookies and local storage usage.
+
+
+- Link to hosted application
+      URL:  https://people.rit.edu/axm3737/Project2/ISTMain.html
+
+
+Some technical issues:
+
+1. There seems to be a bug with a grad adv certificate since when we try to invoke only that part of the json file, were not able to invoke.
+2. On Click on Faculty Research, Working in Chrome and Safari and also in my local. But it looks to have problem in Firefox. So please use Chrome or Safari for this functionality if you face any issue.
+3. The video does not stream in google chrome due to security protocols  but it does run in Safari.

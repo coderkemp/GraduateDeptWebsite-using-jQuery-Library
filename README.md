@@ -19,7 +19,7 @@ To Develop a Front-end using JQuery library, Javascript, HTML5, CSS3. The websit
 
 4. Plugins Used
 jQuery UI Plugin
-   - jQuery UI is a set of user interface interactions, effects, widgets & themes built on top of the jQuery javascript library. whether building a highly interactive web application or adding a date picker to a form control. jQuery is the choice.
+   - jQuery UI is a set of user interface interactions, effects, widgets & themes built on top of the jQuery javascript library. whether building a highly interactive web application or adding a date picker to a form control, jQueryUI is the choice.
    
 jQuery Datatables Plugin
   -  It's a jQuery plugin which adds advanced features to any HTML table

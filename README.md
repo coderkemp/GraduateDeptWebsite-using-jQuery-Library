@@ -39,4 +39,4 @@ jQuery Dialog Plugin
      - After HTML5 came out, Local storage has replaced cookies.
      - Important difference is unlike cookies, data does not have to be sent back and forth with every http request.
      - Local storage can hold up to 5MB of information.
-     - LOcal storage can not only store strings but also Javascript objects.
+     - Local storage can not only store strings but also Javascript objects.
